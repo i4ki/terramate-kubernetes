@@ -48,7 +48,7 @@ To destroy all environments, run:
 terramate script run --tags environment -- k8s delete environments
 ```
 
-[![asciicast](https://asciinema.org/a/695111.svg)](https://asciinema.org/a/695111)
+[![asciicast](https://asciinema.org/a/695110.svg)](https://asciinema.org/a/695110)
 
 To create a specific environment, run:
 
